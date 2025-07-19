@@ -1,9 +1,10 @@
 flask
+gunicorn
 moviepy
 pydub
 together
+requests
+python-dotenv
 google-api-python-client
 google-auth
 google-auth-oauthlib
-requests
-gunicorn

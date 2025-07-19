@@ -1,0 +1,8 @@
+flask
+moviepy
+pydub
+together
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv

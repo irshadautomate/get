@@ -86,7 +86,7 @@ def apply_zoom_in(img_path, duration):
     return clip.fx(resize, lambda t: 1 + 0.05 * t)
 
 # ✅ Flask App
-app = Flask(_name_)
+app = Flask(__name__)
 
 @app.route("/generate-video", methods=["POST"])
 def generate_video():

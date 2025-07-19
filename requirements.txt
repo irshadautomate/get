@@ -1,6 +1,6 @@
 flask
 gunicorn
-moviepy
+moviepy.editor
 pydub
 together
 requests
